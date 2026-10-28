@@ -1,0 +1,15 @@
+{
+  "name": "item-manager",
+  "version": "1.0.0",
+  "description": "Simple CRUD Item Manager web application using Express and Vanilla JS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["crud", "express", "javascript", "rest-api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
